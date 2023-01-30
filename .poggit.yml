@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/artsvn/PurePerms
+build-by-default: true
+branches:
+- master
+projects:
+  PurePerms:
+    path: ""
+...
